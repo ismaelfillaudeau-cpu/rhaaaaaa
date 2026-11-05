@@ -1,0 +1,19 @@
+{
+  "item.hiddenblocks.nether_portal": "Bloc de portail du Nether",
+  "item.hiddenblocks.end_portal": "Bloc de portail de l'End",
+  "item.hiddenblocks.end_gateway": "Bloc de passerelle de l'End",
+  "item.hiddenblocks.fire": "Bloc de feu",
+  "item.hiddenblocks.soul_fire": "Bloc de feu des âmes",
+  "item.hiddenblocks.structure_void": "Vide de structure",
+  "item.hiddenblocks.light": "Bloc de lumière",
+  "item.hiddenblocks.barrier": "Barrière",
+  "item.hiddenblocks.spawner": "Générateur de monstres",
+  "item.hiddenblocks.command_block": "Bloc de commande",
+  "item.hiddenblocks.chain_command_block": "Bloc de commande en chaîne",
+  "item.hiddenblocks.repeating_command_block": "Bloc de commande répétitif",
+  "item.hiddenblocks.structure_block": "Bloc de structure",
+  "item.hiddenblocks.jigsaw": "Bloc de puzzle",
+  "item.hiddenblocks.piston_head": "Tête de piston",
+  "item.hiddenblocks.moving_piston": "Piston en mouvement",
+  "item.hiddenblocks.end_portal_frame": "Cadre de portail de l'End"
+}

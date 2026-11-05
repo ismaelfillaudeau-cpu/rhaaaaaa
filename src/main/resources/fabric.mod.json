@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "hiddenblocks",
+  "version": "${version}",
+  "name": "Hidden Blocks - Operator Inventory",
+  "description": "Adds hidden vanilla blocks and technical block items to the Operator Utilities creative tab.",
+  "authors": [
+    "HiddenBlocks"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.hiddenblocks.HiddenBlocksMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.162.0"
+  }
+}

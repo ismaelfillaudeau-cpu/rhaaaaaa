@@ -1,0 +1,19 @@
+{
+  "item.hiddenblocks.nether_portal": "Nether Portal Block",
+  "item.hiddenblocks.end_portal": "End Portal Block",
+  "item.hiddenblocks.end_gateway": "End Gateway Block",
+  "item.hiddenblocks.fire": "Fire Block",
+  "item.hiddenblocks.soul_fire": "Soul Fire Block",
+  "item.hiddenblocks.structure_void": "Structure Void",
+  "item.hiddenblocks.light": "Light Block",
+  "item.hiddenblocks.barrier": "Barrier",
+  "item.hiddenblocks.spawner": "Monster Spawner",
+  "item.hiddenblocks.command_block": "Command Block",
+  "item.hiddenblocks.chain_command_block": "Chain Command Block",
+  "item.hiddenblocks.repeating_command_block": "Repeating Command Block",
+  "item.hiddenblocks.structure_block": "Structure Block",
+  "item.hiddenblocks.jigsaw": "Jigsaw Block",
+  "item.hiddenblocks.piston_head": "Piston Head",
+  "item.hiddenblocks.moving_piston": "Moving Piston",
+  "item.hiddenblocks.end_portal_frame": "End Portal Frame"
+}
